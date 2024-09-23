@@ -1,0 +1,82 @@
+* {
+	font-family: "Halant", serif;
+	color: indianred;
+}
+
+h1 {
+	text-transform: uppercase; 
+	font-family: "Gowun Batang", serif;
+	font-weight: bold;
+	font-size: 42pt;
+}
+
+
+h2 {
+	text-transform: uppercase; 
+	font-family: "Gowun Batang", serif;
+	line-height: 40px;
+	margin-bottom: 15px;
+}
+
+h3 {
+	font-weight: bold; 
+	font-family: "Gowun Batang", serif;
+}
+
+body {
+	background-color: beige;
+	line-height: 18px;
+}
+
+p {
+	font-size: 13pt;
+}
+
+div.ADD {
+	padding: 5px;
+	font-weight: bold;
+	font-size: 8pt;
+	border: dashed; firebrick;
+	
+}
+
+div.EXPERIENCE {
+    margin: auto;
+    max-width: 800px;
+    text-align: left;
+    padding: 22px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+
+div.SKILLS {
+    margin: auto;
+    max-width: 800px;
+    text-align: left;
+    padding: 10px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+
+div.CONTACT {
+    margin: auto;
+    max-width: 800px;
+    text-align: left;
+    padding: 20px;
+    margin-top: -60px;
+    margin-bottom: 50px;
+    line-height: 10px;
+    border: solid; firebrick;
+    background-position: center;
+    background-color: papayawhip;
+}
+
+div.head {
+    margin: auto;
+    max-width: 800px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+}
